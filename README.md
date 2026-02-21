@@ -6,7 +6,7 @@
 - デモで最終的に作成されるWeb地図は[こちら](https://raokiey.github.io/pycon_mini_shizuoka_2026/shizumae_map.html)で公開しています。  
 
 ## 使用したデータ  
-静岡市「[ずまえおさかな処マップ　掲載飲食店](https://opendata.pref.shizuoka.jp/dataset/12287.html)」を加工して使用しております。  
+静岡市「[しずまえおさかな処マップ　掲載飲食店](https://opendata.pref.shizuoka.jp/dataset/12287.html)」を加工して使用しております。  
 
 
 ## 発表で使用したデモのNotebook
