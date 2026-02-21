@@ -9,6 +9,6 @@
 静岡市「[ずまえおさかな処マップ　掲載飲食店](https://opendata.pref.shizuoka.jp/dataset/12287.html)」を加工して使用しております。  
 
 
-## Notebook  
+## 発表で使用したデモのNotebook
 Google Colaboratoryにて動作確認をしています。  
-- [Google Colabの共有リンク](https://colab.research.google.com/drive/1t5xE-G9oq1hWenw6uhf10xjls204SF2a?usp=sharing)
+- [Pycon_mini_Shizuoka_2026_demo_map.ipynb](./Pycon_mini_Shizuoka_2026_demo_map.ipynb)
